@@ -1,8 +1,21 @@
-# React + Vite
+Go-Shop is an online shopping platform where users can browse, add to cart, and purchase products. Built with React.js, Node.js, and MongoDB.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+User authentication (Signup/Login)
+Product filtering & search
+Shopping cart management
+Admin panel for product management
 
-Currently, two official plugins are available:
+Installation
+Clone the repository:
+git clone https://github.com/your-username/Go-Shop.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install dependencies:
+npm install
+Start the development server:
+npm start
+
+Tech Stack
+Frontend: React.js, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
